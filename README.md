@@ -7,7 +7,7 @@ Un simple module python qui modifie du text pour le rendre plus mignon.
 ### Example / Exemple
 
 ```python3
-import mimimizer as mimi
+import mimimize as mimi
 
 mimi.mimimize("Salut tout le monde je vous aime très très fort")
 ```

@@ -6,7 +6,7 @@ Un simple module python qui modifie du text pour le rendre plus mignon.
 
 ### Example / Exemple
 
-```python
+```python3
 import mimimizer
 
 mimimizer.mimimize("Salut tout le monde je vous aime très très fort")

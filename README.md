@@ -15,4 +15,4 @@ mimimizer.mimimize("Salut tout le monde je vous aime très très fort")
 ```Chalut tout le monde ze vous aime crès crès fort```
 
 ### Requirements / Outils nécessaires
--Python 3
+- Python 3

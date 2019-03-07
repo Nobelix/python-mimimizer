@@ -12,7 +12,7 @@ import mimimize as mimi
 mimi.mimimize("Salut tout le monde je vous aime très très fort")
 ```
 #### Output / Sortie
-```Chalut tout le monde ze vous aime crès crès fort```
+```Chalut tout le monde ze vous déteste crès crès fort```
 
 ### Requirements / Outils nécessaires
 - Python 3
